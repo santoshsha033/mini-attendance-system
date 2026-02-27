@@ -1,7 +1,8 @@
 # ⬡ WorkPulse — Mini Attendance + Task System
 
 A production-ready attendance and task management system with JWT authentication, PostgreSQL, and a polished React frontend.
-
+🔗 Live Demo: https://mini-attendance-system-seven.vercel.app  
+⚙️ Live API: https://mini-attendance-system-p20g.onrender.com
 ---
 
 ## 🗂 Project Structure
@@ -89,7 +90,7 @@ Indexes: `user_id`, `status`, `due_date`
 
 ## 🔌 API Reference
 
-Base URL: `https://your-api-domain.com/api`
+Base URL: `https://mini-attendance-system-p20g.onrender.com/api`  
 
 All protected routes require `Authorization: Bearer <token>` header.
 
